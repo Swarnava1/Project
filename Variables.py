@@ -10,5 +10,5 @@ print("New Text")
 print("New Text")
 print("New Text")
 
-print ("Bos")
+print ("Bose")
 
